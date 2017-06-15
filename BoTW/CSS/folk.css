@@ -1,0 +1,52 @@
+body{
+  background-color: #295bf2;
+  color: white;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  color: white;
+  width: 600px;
+  border-bottom: 2px solid black;
+  font-size: 17px;
+  max-width: 65%;
+  border-top: 2px solid black;
+}
+
+.info{
+  max-width: 65%;
+  padding-left: 42%;
+  padding-top: 10px;
+}
+
+.social{
+  margin-right: 490px;
+  text-align: center;
+  color: white;
+}
+
+.facebook{
+  padding: 25px;
+  color: white;
+}
+
+.twitter{
+  padding: 25px;
+  color: white;
+}
+
+.youtube{
+  padding: 25px;
+  color: white;
+}
+
+.soundcloud{
+  padding: 25px;
+  color: white;
+}
+
+.instagram{
+  padding: 25px;
+  color: white;
+}

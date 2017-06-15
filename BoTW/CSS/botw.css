@@ -1,0 +1,118 @@
+h1{
+  text-align: center;
+  padding-bottom: 15px;
+  color: white;
+}
+
+iframe{
+  width: 450px;
+  height: 315px;
+  padding: 25px;
+}
+
+.image1{
+  width: 450px;
+  height: 315px;
+  padding: 25px;
+}
+
+.image2{
+  width: 450px;
+  height: 315px;
+  padding: 25px;
+}
+
+.image3{
+  width: 450px;
+  height: 315px;
+  padding: 25px;
+}
+
+.button1{
+  text-align: center;
+
+}
+
+p{
+  text-align: center;
+  color: white;
+}
+
+.image4{
+
+  width: 450px;
+  height: 315px;
+  padding: 25px;
+}
+
+.worldmusic{
+  font-size: 15px
+}
+
+.image5{
+  width: 450px;
+  height: 315px;
+  padding: 25px;
+
+}
+
+body{
+  background-color: #295bf2;
+  color: white;
+  text-align: center;
+
+}
+
+
+
+button {
+    background-color: #d2e0f7;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.social{
+  margin-right: 490px;
+  text-align: center;
+  color: white;
+}
+
+.facebook{
+  padding: 25px;
+  color: white;
+}
+
+.twitter{
+  padding: 25px;
+  color: white;
+}
+
+.youtube{
+  padding: 25px;
+  color: white;
+}
+
+.soundcloud{
+  padding: 25px;
+  color: white;
+}
+
+.instagram{
+  padding: 25px;
+  color: white;
+}
+
+.button{
+  color: black;
+}
+
+button{
+  color: black;
+}

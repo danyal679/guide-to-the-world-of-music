@@ -1,0 +1,57 @@
+body{
+  background-color: #295bf2;
+  color: white;
+  text-align: center;
+}
+
+/*p{
+  color: white;
+  width: 600px;
+  border-bottom: 2px solid black;
+  font-size: 17px;
+  max-width: 100%;
+  border-top: 2px solid black;*/
+}
+
+.info{
+  max-width: 100%;
+  padding-left: 0%;
+  padding-top: 10px;
+}
+
+img{
+  width: 450px;
+  height: 315px;
+  padding: 25px;
+}
+
+.social{
+  margin-right: 950px;
+  text-align: center;
+  color: white;
+}
+
+.facebook{
+  padding: 25px;
+  color: white;
+}
+
+.twitter{
+  padding: 25px;
+  color: white;
+}
+
+.youtube{
+  padding: 25px;
+  color: white;
+}
+
+.soundcloud{
+  padding: 25px;
+  color: white;
+}
+
+.instagram{
+  padding: 25px;
+  color: white;
+}

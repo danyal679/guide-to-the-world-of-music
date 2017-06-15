@@ -1,0 +1,45 @@
+body{
+  background-color: #295bf2;
+}
+
+h1{
+  text-align: center;
+  padding-bottom: 15px;
+  color: white;
+}
+
+h3{
+  text-align: center;
+  padding-bottom: 15px;
+  color: white;
+}
+
+.image1{
+  width: 450px;
+  height: 315px;
+  padding: 25px;
+}
+
+.image2{
+  width: 450px;
+  height: 315px;
+  padding: 25px;
+}
+
+.image3{
+  width: 450px;
+  height: 315px;
+  padding: 25px;
+}
+
+.image4{
+  width: 450px;
+  height: 315px;
+  padding: 25px;
+}
+
+.image5{
+  width: 450px;
+  height: 315px;
+  padding: 25px;
+}
